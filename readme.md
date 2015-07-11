@@ -1,5 +1,5 @@
 
-### Issue tracker for Dev Tips Daily
+### Issue tracker for Dev Tips
 
 *See the site* [umaar.com/dev-tips](https://umaar.com/dev-tips/)
 
